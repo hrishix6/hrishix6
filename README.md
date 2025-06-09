@@ -9,5 +9,5 @@ Hi 👋 this is Hrishikesh, I am a Full Stack Engineer
 
 
 ### Contact
-[Email](mailto:hrishi.pethe@gmail.com)
+[Email](mailto:hrishi.pethe@gmail.com) <br />
 [Linkedin](https://www.linkedin.com/in/hrishix6/)
